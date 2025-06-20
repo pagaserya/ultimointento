@@ -1,0 +1,13 @@
+{
+  "name": "bot-boletas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.22.1",
+    "qrcode-terminal": "^0.12.0",
+    "puppeteer-core": "^21.3.8"
+  }
+}
